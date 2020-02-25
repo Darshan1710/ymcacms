@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 //$config['base_url'] = 'http://localhost/ymca/cms/';
 //$config['base_url'] = 'http://localhost/restro/cms/';
-$config['base_url'] = 'http://alphacore.in/ymca/cms';
+$config['base_url'] = 'http://ymcacms.alphacore.in/';
 /*////
 |--------------------------------------------------------------------------
 | Index File
