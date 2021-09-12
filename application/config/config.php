@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-//$config['base_url'] = 'http://localhost/ymca/cms/';
+//$config['base_url'] = 'http://localhost/ymcacms/';
 //$config['base_url'] = 'http://localhost/restro/cms/';
-$config['base_url'] = 'https://democms.alphacore.in/';
+$config['base_url'] = 'https://cms.alphacore.in/';
 /*////
 |--------------------------------------------------------------------------
 | Index File
