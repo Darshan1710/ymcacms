@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$active_group = 'default';
+$active_group = 'live';
 $query_builder = TRUE;
 
 $db['default'] = array(
@@ -29,9 +29,9 @@ $db['default'] = array(
 $db['live'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'u420187958_alphacore',
+	'username' => 'u420187958_ymca',
 	'password' => 'Drshn@1710',
-	'database' => 'u420187958_alphacore',
+	'database' => 'u420187958_ymca',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
